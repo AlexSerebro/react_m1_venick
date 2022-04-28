@@ -79,13 +79,3 @@
   text-decoration: none;
 }
 
-.list{
-  display: flex;
-  list-style: none;
-  color: #fff;
-}
-
-.list-item{
-  margin-left: 15px;
-}
-
