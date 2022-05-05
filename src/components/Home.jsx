@@ -1,4 +1,5 @@
 import { Container } from "./Container"
+import { Button } from "./ui/Button";
 
 const FRUITS = ['apple', 'kiwi', 'banana', 'cucumber']
 
@@ -17,6 +18,7 @@ export const Home = () => {
          )
        })}
      </ul>
-    </Container>
+   <Button/>
+   </Container>
   </main>)
 }
